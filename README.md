@@ -1,2 +1,4 @@
-# ac290
-Extreme Computing
+classtmpl
+=========
+
+A template to create class websites using pelican
