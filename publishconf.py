@@ -10,7 +10,7 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = 'http://ac290.org'
+#SITEURL = 'http://ac290.org'
 RELATIVE_URLS = False
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
@@ -24,4 +24,4 @@ CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 #GOOGLE_ANALYTICS = ""
 start = SITEURL
 MENUITEMS = do_menuitems(start)
-EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
+#EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
