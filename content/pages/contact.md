@@ -1,7 +1,7 @@
 Title: Contact
-Author: Rahul Dave
+Author: Pavlos Protopapas
 
-You can contact the instructor Pavlos Protopapas: `pavlos at seas.harvard.edu`, B155 +/- 3, Northwest Building.
+You can contact the instructors Sadas : `pavlos at seas.harvard.edu`, B155 +/- 3, Northwest Building.
 
 The TF's (minions) for this course are:
 
