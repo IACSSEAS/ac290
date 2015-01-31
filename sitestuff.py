@@ -2,12 +2,12 @@ AUTHOR = u'Pavlos'
 SITENAME = u'Home'
 
 FULL_NAME="Pavlos Protopapas"
-FULL_SITE="CSE Capstone Project Course"
-CLASS_NUMBER="ac297r"
+FULL_SITE="Extreme Computing"
+CLASS_NUMBER="ac290"
 
 
 # Blogroll
-LINKS =  (('Piazza', ' http://piazza.com/harvard/spring2015/ac297r'),)
+LINKS =  (('Piazza', ' http://piazza.com/harvard/fall2015/ac290'),)
 
 OTHERLINKS = (('Numpy', 'http://docs.scipy.org/doc/numpy/reference/'),
           ('Scipy', 'http://docs.scipy.org/doc/scipy/reference/'),
