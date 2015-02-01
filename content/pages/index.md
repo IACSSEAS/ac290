@@ -10,6 +10,7 @@ Template: index
 <hr/>
 <div class="row">
     <div class="col-lg-4">
+    <img class="img-responsive" src="images/X.jpeg" alt="Generic placeholder image">
          </div>
 <div class="col-lg-8">
 <p>
