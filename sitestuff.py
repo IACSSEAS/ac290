@@ -1,7 +1,7 @@
 AUTHOR = u'Pavlos'
 SITENAME = u'Home'
 
-FULL_NAME="Pavlos Protopapas"
+FULL_NAME="Sadas Shenkar, Pavlos Protopapas, Efthimios Kaxiras"
 FULL_SITE="Extreme Computing"
 CLASS_NUMBER="ac290"
 

@@ -1,5 +1,5 @@
 Title: About ac290
-Author: Pavlos Protopapas
+Author: Sadas Shankar, Pavlos Protopapas and Efthimios Kaxiras
 
 
 ### Extreme computing
